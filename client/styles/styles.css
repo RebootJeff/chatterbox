@@ -17,6 +17,7 @@ body {
 #main h1 {
     margin-top: 0;
     font-size: 35px;
+    text-align: center;
 }
 
 #main ul {
@@ -37,4 +38,21 @@ body {
     font-size: 12px;
     color: green;
     line-height: 13px;
+}
+
+#chats {
+    background-color: orange;
+    width: 620px;
+    height: auto;
+    min-height: 300px;
+    margin: auto;
+    padding: 50px 0px;
+    text-align: center;
+}
+
+.msg {
+    background-color: white;
+    width: 400px;
+    margin: 2% 18%;
+    text-align: center; 
 }
